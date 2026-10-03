@@ -1,0 +1,4 @@
+Synthetic demo password was hashed with Argon2id.
+Stored hash: $argon2id$v=19$m=65536,t=3,p=4$LHMnnnvUi0DMxEhGvsfHqQ$uc/fq6C8v/UR5cu/0+SSUDGnYnd9CcK47tbXh0xqQqA
+Verification succeeds: True
+Verification with wrong password: False

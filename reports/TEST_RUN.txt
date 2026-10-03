@@ -1,0 +1,4 @@
+pytest result: 35 passed
+Backend compile check: passed
+Hashing demonstration: passed with synthetic demo data
+Frontend dependency installation/build: not verified in this environment because npm package installation timed out; Node and npm are installed and the repository includes the complete Vite/React source.
