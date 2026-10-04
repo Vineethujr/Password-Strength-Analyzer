@@ -310,6 +310,3 @@ This project demonstrates Python, FastAPI, React, REST API design, secure random
 
 This is an educational defensive-security project. Do not submit production credentials or sensitive information to the demonstration deployment. The project does not crack passwords, attempt logins, or collect credentials.
 
-## Author
-
-Student Cybersecurity / Cloud / Application Security Project
